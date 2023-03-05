@@ -1,7 +1,7 @@
 pipeline{
   agent any
   stages{
-    stahe ('Build) {
+    stage ('Build) {
            steps{
              
              echo 'Running guild automation'
